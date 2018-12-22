@@ -61,7 +61,7 @@ Turkey
 
 **go-linq Go Library** – Seattle Go Meetup
 
-- [📹 Recording(https://www.youtube.com/watch?v=9O1qN_gi5m8)
+- [📹 Recording](https://www.youtube.com/watch?v=9O1qN_gi5m8)
 
 ## 2016
 
@@ -72,7 +72,7 @@ Turkey
 - [📹 Recording](https://www.youtube.com/watch?v=WXESsPqC8to)
 - [📜 Slides](https://speakerdeck.com/alp/dns-service-discovery-for-docker-swarm-clusters)
 
-**Writing Container-Friendly Applications*- LinuxCon North America 2015 @
+**Writing Container-Friendly Applications** – LinuxCon North America 2015 @
 Seattle, WA.
 
 - [Description](http://sched.co/44LN) – [mirror](http://archive.is/aXE4S)
@@ -88,9 +88,7 @@ Seattle, WA.
   with Scott Hanselman** – Azure Friday, Microsoft Channel 9
 - **[Docker Visual Studio Extension](https://channel9.msdn.com/Shows/Azure-Friday/The-Docker-Visual-Studio-Extension-with-Ahmet-Alp-Balkan)
   with Scott Hanselman** – Azure Friday, Microsoft Channel 9
-- **[How to Implement Containerization with Docker to Increase Density and
-  Performance of Virtual
-  Machines](https://channel9.msdn.com/events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Implement-Containerization-with-Docker-to-Increase-Density-and-Performance-of-Virtual-Machine)**
+- **[Increasing Density of VMs with Docker](https://channel9.msdn.com/events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Implement-Containerization-with-Docker-to-Increase-Density-and-Performance-of-Virtual-Machine)**
   – Microsoft Channel 9
 
 -----
