@@ -106,8 +106,8 @@ Prior to Google, he has worked at Microsoft Azure on the Linux team and worked
 on porting Docker to Windows, creating the first Docker image for .NET Core,
 and starting Azure Container Registry service.
 
-In his spare time, he likes to brew coffee at home (with Chemex, V60, and
-Turkish coffee), makes fresh pasta, goes hiking and maintains open source
+In his spare time, he likes to brew coffee (with Chemex, V60, Aeropress
+and Turkish coffee), make fresh pasta, go hiking and maintain open source
 projects.
 
 -----
