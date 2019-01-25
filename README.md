@@ -100,15 +100,12 @@ experience and developer tooling for open source projects like Kubernetes and
 Knative and products like Google Kubernetes Engine (GKE). He primarily works on
 container-based infrastructure technologies.
 
-You can find him as @ahmetb on Twitter and GitHub.
-
 Prior to Google, he has worked at Microsoft Azure on the Linux team and worked
 on porting Docker to Windows, creating the first Docker image for .NET Core,
-and starting Azure Container Registry service.
+and starting Azure Container Registry service. In his spare time, he likes to brew
+coffee, work on his latte art skills, make fresh pasta and go hiking.
 
-In his spare time, he likes to brew coffee (with Chemex, V60, Aeropress
-and Turkish coffee), make fresh pasta, go hiking and maintain open source
-projects.
+You can find him as @ahmetb on Twitter and GitHub.
 
 -----
 
