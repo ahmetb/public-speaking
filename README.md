@@ -3,6 +3,14 @@
 - **[Speaker Bio](#speaker-bio)**
 - **[Profile Pictures](assets/profile-pictures.md)**
 
+## 2019
+
+**Writing kubectl Plugins: Develop, Package and Distribute** – KubeCon/CloudNativeCon 2019 EU @ Barcelona, Spain
+
+- [📹 Recording](https://www.youtube.com/watch?v=83ITOTsXsHU)
+- [📜 Slides](https://speakerdeck.com/alp/writing-kubectl-plugins-develop-package-and-distribute)
+- [Description](https://kccnceu19.sched.com/event/767d67e0dd22f8ac69bf63e5ac538cb1) - [mirror](http://archive.is/HjUm1)
+
 ## 2018
 
 **Knative Hands-on Workshop** – KubeCon 2018 @ Seattle, WA.
