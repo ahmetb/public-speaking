@@ -5,6 +5,17 @@
 
 ## 2019
 
+**Serverless AND Containers: Is it possible?** – ServerlessConf NYC 2019 @ New York, USA
+
+- [📜 Slides](https://speakerdeck.com/alp/serverless-and-containers)
+- [Description](https://nyc2019.serverlessconf.io/agenda.html#day2) – [mirror](http://web.archive.org/web/20191014222326/https://nyc2019.serverlessconf.io/agenda.html)
+
+**Engineering GKE Clusters for Reliability** – Google Cloud Day Istanbul 2019 @ Istanbul, Turkey
+
+**Keynote: Empowering your developers & Serverless** Google Cloud Day Istanbul 2019 – Istanbul, Turkey
+
+- [📹 Recording](https://youtu.be/5pV_AJnYgzo?t=2840)
+
 **Writing kubectl Plugins: Develop, Package and Distribute** – KubeCon/CloudNativeCon 2019 EU @ Barcelona, Spain
 
 - [📹 Recording](https://www.youtube.com/watch?v=83ITOTsXsHU)
