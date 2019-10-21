@@ -121,9 +121,7 @@ of developer tooling like kubectx.dev and krew.dev.
 
 Prior to Google, he has worked at Microsoft Azure on the Linux team on porting
 Docker to Windows, creating the first container image for .NET Core,
-and starting the Azure Container Registry service. In his spare time, he likes
-to make fresh pasta, work on his latte art skills and go hiking.
-
+and starting the Azure Container Registry service.
 You can find him as @ahmetb on Twitter and GitHub.
 
 -----
