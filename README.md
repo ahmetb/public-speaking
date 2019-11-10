@@ -5,6 +5,12 @@
 
 ## 2019
 
+<!-- Krew and Kubectl Plugins talk @ Anthos Day at KubeCon 2019 San Diego -->
+
+<!-- Cloud Run on Anthos talk @ Anthos Day at KubeCon 2019 San Diego -->
+
+**Serverless Containers: Cloud Run** – Serverless in Seattle Meetup @ Seattle, WA, USA
+
 **Serverless AND Containers: Is it possible?** – ServerlessConf NYC 2019 @ New York, USA
 
 - [📜 Slides](https://speakerdeck.com/alp/serverless-and-containers)
