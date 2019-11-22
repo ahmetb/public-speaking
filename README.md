@@ -5,13 +5,19 @@
 
 ## 2019
 
-<!-- Krew and Kubectl Plugins talk @ Anthos Day at KubeCon 2019 San Diego -->
+**Making `kubectl` plugins mainstream** – KubeCon 2019 @ San Diego, CA, USA
 
-<!-- Cloud Run on Anthos talk @ Anthos Day at KubeCon 2019 San Diego -->
+- [📜 Slides](https://speakerdeck.com/alp/making-kubectl-plugins-mainstream)
+- [[📹 Recording](#) <!-- TODO -->
+
+**Modernizing Kubernetes microservices stack with Cloud Run for Anthos** – Anthos Day @ KubeCon’19 @ San Diego, CA, USA
+
+- [📜 Slides](https://speakerdeck.com/alp/gke)
+- [📹 Recording](https://youtu.be/0T5UliS9j8A)
 
 **Serverless Containers: Cloud Run** – Serverless in Seattle Meetup @ Seattle, WA, USA
 
-**Serverless AND Containers: Is it possible?** – ServerlessConf NYC 2019 @ New York, USA
+**Serverless "AND" Containers: Is it possible?** – ServerlessConf NYC 2019 @ New York, USA
 
 - [📜 Slides](https://speakerdeck.com/alp/serverless-and-containers)
 - [Description](https://nyc2019.serverlessconf.io/agenda.html#day2) – [mirror](http://web.archive.org/web/20191014222326/https://nyc2019.serverlessconf.io/agenda.html)
