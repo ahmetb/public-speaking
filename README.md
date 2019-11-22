@@ -8,7 +8,7 @@
 **Making `kubectl` plugins mainstream** – KubeCon 2019 @ San Diego, CA, USA
 
 - [📜 Slides](https://speakerdeck.com/alp/making-kubectl-plugins-mainstream)
-- [[📹 Recording](#) <!-- TODO -->
+- [📹 Recording](#) <!-- TODO -->
 
 **Modernizing Kubernetes microservices stack with Cloud Run for Anthos** – Anthos Day @ KubeCon’19 @ San Diego, CA, USA
 
