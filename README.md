@@ -3,6 +3,17 @@
 - **[Speaker Bio](#speaker-bio)**
 - **[Profile Pictures](assets/profile-pictures.md)**
 
+## 2020
+
+**Using Kubernetes to Build Better Kubernetes Networking and Autoscaling** – KubeCon/CloudNativeCon 2020 EU @ Amsterdam, Netherlands
+
+- (Upcoming talk)
+- [Description](https://kccnceu20.sched.com/event/ZeoM)
+
+**Using Serverless on Kubernetes with Cloud Run** @ Google Cloud Turkey, Istanbul, Turkey (Webinar)
+
+- (Upcoming talk)
+
 ## 2019
 
 **Making `kubectl` plugins mainstream** – KubeCon 2019 @ San Diego, CA, USA
