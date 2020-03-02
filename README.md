@@ -111,7 +111,7 @@ Turkey
 
 **DNS Service Discovery for Docker clusters** – DockerCon EU 2015 @ Barcelona, Spain
 
-- [📹 Recording](https://www.youtube.com/watch?v=WXESsPqC8to)
+- [📹 Recording](https://youtu.be/E5EXCtMn4-A)
 - [📜 Slides](https://speakerdeck.com/alp/dns-service-discovery-for-docker-swarm-clusters)
 
 **Writing Container-Friendly Applications** – LinuxCon North America 2015 @
