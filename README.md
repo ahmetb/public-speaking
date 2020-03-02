@@ -12,7 +12,7 @@
 
 **Using Serverless on Kubernetes with Cloud Run** @ Google Cloud Turkey, Istanbul, Turkey (Webinar)
 
-- (Upcoming talk)
+- [📹 Recording (🇹🇷)](https://youtu.be/kyJOpnuH66c)
 
 ## 2019
 
@@ -37,7 +37,7 @@
 
 **Keynote: Empowering your developers & Serverless** Google Cloud Day Istanbul 2019 – Istanbul, Turkey
 
-- [📹 Recording](https://youtu.be/5pV_AJnYgzo?t=2840)
+- [📹 Recording (🇹🇷)](https://youtu.be/5pV_AJnYgzo?t=2840)
 
 **Writing kubectl Plugins: Develop, Package and Distribute** – KubeCon/CloudNativeCon 2019 EU @ Barcelona, Spain
 
@@ -94,7 +94,7 @@ TX.
 **Anatomy of a Cloud-Native Application** – DevOpsDays IST 2017 @ Istanbul,
 Turkey
 
-- [📹 Recording](https://youtu.be/sR1kRTiSpbc?t=17)
+- [📹 Recording (🇹🇷)](https://youtu.be/sR1kRTiSpbc?t=17)
 - [📜 Slides](https://speakerdeck.com/alp/anatomy-of-a-cloud-native-application)
 
 **Using TLS with Let’s Encrypt in Kubernetes** – Seattle Kubernetes Meetup
