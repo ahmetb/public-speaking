@@ -5,9 +5,16 @@
 
 ## 2020
 
+**Online Meetup: Serverless containers with Google Cloud Run and Knative** – Serverless Turkey
+
+- [📹 Recording (🇹🇷)](https://youtu.be/gv1udnxWWgw)
+- [📜 Slides](https://speakerdeck.com/alp/cloud-run-ve-kubernetes-uzerinde-sunucusuz-uygulamalar)
+
+
+
 **Using Kubernetes to Build Better Kubernetes Networking and Autoscaling** – KubeCon/CloudNativeCon 2020 EU @ Amsterdam, Netherlands
 
-- (Upcoming talk)
+- (Upcoming, currently postponed to August 2002 due to COVID-19 outbreak)
 - [Description](https://kccnceu20.sched.com/event/ZeoM)
 
 **Using Serverless on Kubernetes with Cloud Run** @ Google Cloud Turkey, Istanbul, Turkey (Webinar)
