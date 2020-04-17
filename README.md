@@ -5,7 +5,7 @@
 
 ## 2020
 
-**Online Meetup: Serverless containers with Google Cloud Run and Knative** – Serverless Turkey
+**Serverless containers with Google Cloud Run and Knative** – Serverless Turkey @ Online Meetup
 
 - [📹 Recording (🇹🇷)](https://youtu.be/gv1udnxWWgw)
 - [📜 Slides](https://speakerdeck.com/alp/cloud-run-ve-kubernetes-uzerinde-sunucusuz-uygulamalar)
