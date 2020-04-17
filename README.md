@@ -1,7 +1,21 @@
 # Public Speaking by @ahmetb
 
-- **[Speaker Bio](#speaker-bio)**
-- **[Profile Pictures](assets/profile-pictures.md)**
+## Speaker Bio
+
+Ahmet Alp Balkan is a Software Engineer at Google, working on developer
+experiences for open source technologies like Kubernetes and Knative,
+as well as Google’s services like GKE and Cloud Run. He is the maintainer
+of developer tooling like kubectx.dev and krew.dev.
+
+Prior to Google, he has worked at Microsoft Azure on the Linux team on porting
+Docker to Windows, creating the first container image for .NET Core,
+and starting the Azure Container Registry service.
+You can find him as @ahmetb on Twitter and GitHub.
+
+- **[&rarr; Profile Pictures](assets/profile-pictures.md)**
+- **[&rarr; Social Links](#social)**
+
+# Talks
 
 ## 2020
 
@@ -142,19 +156,6 @@ Seattle, WA.
 
 -----
 
-## Speaker Bio
-
-Ahmet Alp Balkan is a Software Engineer at Google, working on developer
-experiences for open source technologies like Kubernetes and Knative,
-as well as Google’s services like GKE and Cloud Run. He is the maintainer
-of developer tooling like kubectx.dev and krew.dev.
-
-Prior to Google, he has worked at Microsoft Azure on the Linux team on porting
-Docker to Windows, creating the first container image for .NET Core,
-and starting the Azure Container Registry service.
-You can find him as @ahmetb on Twitter and GitHub.
-
------
 
 ## Social
 
