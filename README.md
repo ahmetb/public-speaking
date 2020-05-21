@@ -19,12 +19,19 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 ## 2020
 
+**Serverless Containers on Fully Managed Infrastructure** - Container Camp 2020 Virtual
+
+- [📜 Slides](https://speakerdeck.com/alp/serverless-containers-on-fully-managed-infrastructure)
+
+**Introduction to Google Cloud Buildpacks** – GDG Cloud Ankara Virtual Meetup
+
+- [📹 Recording (🇹🇷)](https://www.youtube.com/watch?v=_J67zIjBIi8)
+- [📜 Slides](https://speakerdeck.com/alp/google-cloud-buildpacks-projesine-giris)
+
 **Serverless containers with Google Cloud Run and Knative** – Serverless Turkey @ Online Meetup
 
 - [📹 Recording (🇹🇷)](https://youtu.be/gv1udnxWWgw)
 - [📜 Slides](https://speakerdeck.com/alp/cloud-run-ve-kubernetes-uzerinde-sunucusuz-uygulamalar)
-
-
 
 **Using Kubernetes to Build Better Kubernetes Networking and Autoscaling** – KubeCon/CloudNativeCon 2020 EU @ Amsterdam, Netherlands
 
