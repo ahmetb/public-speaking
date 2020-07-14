@@ -35,7 +35,7 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 **Using Kubernetes to Build Better Kubernetes Networking and Autoscaling** – KubeCon/CloudNativeCon 2020 EU @ Amsterdam, Netherlands
 
-- (Upcoming, currently postponed to August 2002 due to COVID-19 outbreak)
+- (Upcoming, currently postponed to August 2020 due to COVID-19 outbreak)
 - [Description](https://kccnceu20.sched.com/event/ZeoM)
 
 **Using Serverless on Kubernetes with Cloud Run** @ Google Cloud Turkey, Istanbul, Turkey (Webinar)
