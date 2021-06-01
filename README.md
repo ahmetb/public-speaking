@@ -17,6 +17,13 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 # Talks
 
+## 2021
+
+**Securing serverless applications with Identity-Aware Proxy** - Google Serverless Day (Virtual)
+
+- [📹 Recording](https://www.youtube.com/watch?v=68LmhtvSNZY)
+- [Repository](https://github.com/ahmetb/cloud-run-iap-terraform-demo/)
+
 ## 2020
 
 **Serverless Containers on Fully Managed Infrastructure** - Container Camp 2020 Virtual
