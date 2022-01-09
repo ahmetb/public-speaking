@@ -2,14 +2,16 @@
 
 ## Speaker Bio
 
-Ahmet Alp Balkan is a Software Engineer at Google, working on developer
-experiences for open source technologies like Kubernetes and Knative,
-as well as Google’s services like GKE and Cloud Run. He is the maintainer
-of developer tooling like kubectx.dev and krew.dev.
+Ahmet Alp Balkan is a staff software engineer at the Compute Platform team
+at Twitter, working on modernizing Twitter's infrastructure and providing a
+better platform for developers inside Twitter.
 
-Prior to Google, he has worked at Microsoft Azure on the Linux team on porting
-Docker to Windows, creating the first container image for .NET Core,
-and starting the Azure Container Registry service.
+Prior to Twitter, Ahmet has spent nearly 10 years working at Google Cloud
+and Microsoft Azure primarily on container-based open source technologies
+and services such as Kubernetes, GKE, Knative. He pioneered the work to port
+Docker to Windows and bringing Docker into the Azure ecosystem.
+He created and maintains developer tools like kubectx.dev and krew.dev.
+
 You can find him as @ahmetb on Twitter and GitHub.
 
 - **[&rarr; Profile Pictures](assets/profile-pictures.md)**
