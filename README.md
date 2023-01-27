@@ -19,6 +19,12 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 # Talks
 
+## 2023
+
+**Scaling Kubernetes Controllers** - Seattle Kubernetes Meetup
+
+- [📜 Slides](https://speakerdeck.com/alp/scaling-kubernetes-controllers-seattle-kubernetes-meetup)
+
 ## 2021
 
 **Securing serverless applications with Identity-Aware Proxy** - Google Serverless Day (Virtual)
