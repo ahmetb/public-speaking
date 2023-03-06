@@ -25,7 +25,14 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 - [📜 Slides](https://speakerdeck.com/alp/scaling-kubernetes-controllers-seattle-kubernetes-meetup)
 
+## 2022
+
 ## 2021
+
+**Go ile Kendinize Kariyer İnşa Etmek** - GopherCon Turkey 2021 - Turkish Track (Virtual)
+
+- [📹 Recording (🇹🇷)](https://www.youtube.com/watch?v=Mx-Vu0dK49k?feature=share&t=29130)
+- [📜 Slides/Repository](https://github.com/ahmetb/gophercon-ist)
 
 **Securing serverless applications with Identity-Aware Proxy** - Google Serverless Day (Virtual)
 
@@ -34,16 +41,16 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 ## 2020
 
-**Serverless Containers on Fully Managed Infrastructure** - Container Camp 2020 Virtual
+**Serverless Containers on Fully Managed Infrastructure** - Container Camp 2020 (Virtual)
 
 - [📜 Slides](https://speakerdeck.com/alp/serverless-containers-on-fully-managed-infrastructure)
 
-**Introduction to Google Cloud Buildpacks** – GDG Cloud Ankara Virtual Meetup
+**Introduction to Google Cloud Buildpacks** – GDG Cloud Ankara Meetup (Virtual)
 
 - [📹 Recording (🇹🇷)](https://www.youtube.com/watch?v=_J67zIjBIi8)
 - [📜 Slides](https://speakerdeck.com/alp/google-cloud-buildpacks-projesine-giris)
 
-**Serverless containers with Google Cloud Run and Knative** – Serverless Turkey @ Online Meetup
+**Serverless containers with Google Cloud Run and Knative** – Serverless Turkey @ Online Meetup (Virtual)
 
 - [📹 Recording (🇹🇷)](https://youtu.be/gv1udnxWWgw)
 - [📜 Slides](https://speakerdeck.com/alp/cloud-run-ve-kubernetes-uzerinde-sunucusuz-uygulamalar)
@@ -168,13 +175,11 @@ Seattle, WA.
 
 **Other:**
 
-- **[Docker
-  101](https://channel9.msdn.com/Shows/Azure-Friday/Docker-101-with-Ahmet-Alp-Balkan)
+- **[Docker 101](https://channel9.msdn.com/Shows/Azure-Friday/Docker-101-with-Ahmet-Alp-Balkan)
   with Scott Hanselman** – Azure Friday, Microsoft Channel 9
 - **[Docker Visual Studio Extension](https://channel9.msdn.com/Shows/Azure-Friday/The-Docker-Visual-Studio-Extension-with-Ahmet-Alp-Balkan)
   with Scott Hanselman** – Azure Friday, Microsoft Channel 9
-- **[Increasing Density of VMs with Docker](https://channel9.msdn.com/events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Implement-Containerization-with-Docker-to-Increase-Density-and-Performance-of-Virtual-Machine)**
-  – Microsoft Channel 9
+- **[Increasing Density of VMs with Docker](https://channel9.msdn.com/events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Implement-Containerization-with-Docker-to-Increase-Density-and-Performance-of-Virtual-Machine)** – Microsoft Channel 9
 
 -----
 
