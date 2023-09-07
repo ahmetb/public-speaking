@@ -2,12 +2,12 @@
 
 ## Speaker Bio
 
-Ahmet Alp Balkan is a staff software engineer at the Compute Platform team
-at Twitter, working on modernizing Twitter's infrastructure and providing a
-better platform for developers inside Twitter.
+Ahmet Alp Balkan is a senior staff software engineer at the Compute Infrastructure
+team at LinkedIn, working on moving LinkedIn's large compute footprint to
+a Kubernetes based infrastructure on-premises.
 
-Prior to Twitter, Ahmet has spent nearly 10 years working at Google Cloud
-and Microsoft Azure primarily on container-based open source technologies
+Prior to LinkedIn, Ahmet has spent nearly 10 years working at Twitter,
+Google Cloud and Microsoft Azure primarily on container-based open source technologies
 and services such as Kubernetes, GKE, Knative. He pioneered the work to port
 Docker to Windows and bringing Docker into the Azure ecosystem.
 He created and maintains developer tools like kubectx.dev and krew.dev.
