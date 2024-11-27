@@ -19,6 +19,13 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 # Talks
 
+## 2024
+
+**Building kubectl plugins like a pro** — Cloud-Native Rejekts 2024 — Salt Lake City, UT
+
+* [📹 Recording](https://www.youtube.com/watch?v=wnTxF3XTyoQ&t=20s)
+* [📜 Slides](https://speakerdeck.com/alp/building-kubectl-plugins-like-a-pro) / [Repository](https://github.com/ahmetb/rejekts-kubectl-demo)
+
 ## 2023
 
 **Scaling Kubernetes Controllers** - Seattle Kubernetes Meetup
