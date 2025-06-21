@@ -198,8 +198,8 @@ Seattle, WA.
 
 ## 2014
 
-- **Running C# in Linux Containers** — Seattle GNU/Linux Conference, Seattle
-  -  [📜 Slides](https://speakerdeck.com/alp/running-c-number-in-linux-containers-with-docker)
+**Running C# in Linux Containers** — Seattle GNU/Linux Conference, Seattle
+-  [📜 Slides](https://speakerdeck.com/alp/running-c-number-in-linux-containers-with-docker)
 
 -----
 
