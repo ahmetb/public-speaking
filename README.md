@@ -196,6 +196,11 @@ Seattle, WA.
   with Scott Hanselman** – Azure Friday, Microsoft Channel 9
 - **[Increasing Density of VMs with Docker](https://channel9.msdn.com/events/Microsoft-Azure/Level-Up-Azure-IaaS-for-IT-Pros/How-to-Implement-Containerization-with-Docker-to-Increase-Density-and-Performance-of-Virtual-Machine)** – Microsoft Channel 9
 
+## 2014
+
+- **Running C# in Linux Containers** — Seattle GNU/Linux Conference, Seattle
+  -  [📜 Slides](https://speakerdeck.com/alp/running-c-number-in-linux-containers-with-docker)
+
 -----
 
 
