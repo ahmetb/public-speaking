@@ -19,6 +19,14 @@ You can find him as @ahmetb on Twitter and GitHub.
 
 # Talks
 
+## 2025
+
+**From Metal To Apps: LinkedIn’s Kubernetes-based Compute Platform** – KubeCon EU 2025 – London, UK (co-presenter @ronaknnathani)
+
+* [📹 Recording](https://www.youtube.com/watch?v=dDkXFuy45EA)
+* [📜 Slides](https://speakerdeck.com/alp/from-metal-to-apps-linkedins-kubernetes-based-compute-platform)
+* [Event Page](https://kccnceu2025.sched.com/event/1txGQ/)
+
 ## 2024
 
 **Building kubectl plugins like a pro** — Cloud-Native Rejekts 2024 — Salt Lake City, UT
