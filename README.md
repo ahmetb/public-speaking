@@ -27,7 +27,7 @@ You can find him as @ahmetb on Twitter and GitHub.
 * [📜 Slides](https://speakerdeck.com/alp/evicted-all-the-ways-kubernetes-kills-your-pods-and-how-to-avoid-them)
 * [Event Page](https://kccncna2025.sched.com/event/27Fdd/evicted-all-the-ways-kubernetes-kills-your-pods-and-how-to-avoid-them-ahmet-alp-balkan-linkedin)
 
-**From Metal To Apps: LinkedIn’s Kubernetes-based Compute Platform** – KubeCon/CloudNativeCon EU 2025 – London, UK (co-presented with [@ronaknnathani])(https://github.com/ronaknnathani)
+**From Metal To Apps: LinkedIn’s Kubernetes-based Compute Platform** – KubeCon/CloudNativeCon EU 2025 – London, UK (co-presented with [@ronaknnathani](https://github.com/ronaknnathani))
 
 * [📹 Recording](https://www.youtube.com/watch?v=dDkXFuy45EA)
 * [📜 Slides](https://speakerdeck.com/alp/from-metal-to-apps-linkedins-kubernetes-based-compute-platform)
